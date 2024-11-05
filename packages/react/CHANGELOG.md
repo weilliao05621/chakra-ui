@@ -1,5 +1,14 @@
 # @chakra-ui/react
 
+## 3.1.1
+
+### Patch Changes
+
+- [#9103](https://github.com/chakra-ui/chakra-ui/pull/9103)
+  [`1254769`](https://github.com/chakra-ui/chakra-ui/commit/12547692bdfe2ebe7be9c16ea381a5c42f553e1c)
+  Thanks [@Newbie012](https://github.com/Newbie012)! - fix: checkmark indicator
+  svg is not visible on safari
+
 ## 3.1.0
 
 ### Minor Changes
